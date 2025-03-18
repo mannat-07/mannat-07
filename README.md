@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannat-07&label=Profile%20views&color=0e75b6&style=flat" alt="mannat-07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mannat-07" alt="mannat-07" /></a> </p>
-
 - 📫 How to reach me **mannatgarg2006@gmail.com**
 
 - ⚡ Fun fact **I am cute**
